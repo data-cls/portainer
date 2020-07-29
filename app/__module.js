@@ -4,7 +4,7 @@ import '@babel/polyfill';
 import angular from 'angular';
 
 import './agent';
-import './azure/_module';
+import './azure';
 import './docker/__module';
 import './edge/__module';
 import './portainer/__module';
